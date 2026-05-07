@@ -1,0 +1,13 @@
+{
+  "name": "MediRemind - Senior Medicine Care",
+  "description": "An elderly-friendly medicine reminder app with loud alarms, medication tracking, and multilingual (Arabic, Kurdish, English) support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Medication Tracking",
+    "Multilingual UI",
+    "Health Notifications"
+  ]
+}
